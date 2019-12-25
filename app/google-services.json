@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260544884349",
+    "firebase_url": "https://groupchat-5c603.firebaseio.com",
+    "project_id": "groupchat-5c603",
+    "storage_bucket": "groupchat-5c603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260544884349:android:ad3be134f25a0137a38b14",
+        "android_client_info": {
+          "package_name": "com.andrewtsaturov.groupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260544884349-3emt87osraakrpcqdqm3l90ubspp3bcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_R12d_tNQjQjGYiookiUwHVXSMc7rJo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260544884349-3emt87osraakrpcqdqm3l90ubspp3bcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

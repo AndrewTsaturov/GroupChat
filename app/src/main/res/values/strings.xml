@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GroupChat</string>
+    <string name="input_message_hint">Input your message</string>
+    <color name="primaryText">#3C3B39</color>
+    <color name="secondaryText">#803c3b39</color>
+</resources>
